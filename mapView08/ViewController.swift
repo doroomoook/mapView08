@@ -10,7 +10,6 @@ import MapKit
 
 class ViewController: UIViewController ,CLLocationManagerDelegate {
     
-    
     @IBOutlet var myMap: MKMapView!
     @IBOutlet var lblLocationInfo1: UILabel!
     @IBOutlet var lblLocationInfo2: UILabel!
